@@ -1,7 +1,20 @@
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS ![Bike Study](2560px-Amazon_Web_Services_Logo.svg.png), Snowflake, MATLAB
+#### Technical Skills
+### Programming Languages:Python , C++ , Assembly ,Swift
+### Database: MYSQL
+### Web Development: HTML, CSS , Node JavaScript, Wix
+### Libraries: Pandas , NumPy, Matplotib
+### Operating Systems: Windows, MacOS
+### Tools: Git, Visual Studio Code , Jupyter, PyCharm
+
+![Bike Study](Assembly.png)
+![Bike Study](C++.png)
+![Bike Study](Python.jpeg)
+![Bike Study](Node Js.png)
+![Bike Study](HTML.png)
+![Bike Study](CSS.png)
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
