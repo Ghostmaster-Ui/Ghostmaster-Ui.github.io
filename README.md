@@ -12,7 +12,7 @@
 ![Bike Study](Assembly.png)
 ![Bike Study](C++.png)
 ![Bike Study](Python.jpeg)
-![Bike Study](Node Js.png)
+![Bike Study](NodeJs.png)
 ![Bike Study](HTML.png)
 ![Bike Study](CSS.png)
 
